@@ -1,6 +1,6 @@
 🏏 T20 World Cup 2022 Interactive Dashboard (Power BI)
 
-🔗 Dashboard Link: View Here
+🔗 Dashboard Link: [View Here](https://app.powerbi.com/groups/me/reports/759ba131-f8ed-4573-a49f-ff38e545ffe9/ReportSection?experience=power-bi)
 
 📌 Overview
 This project presents an interactive Power BI dashboard built using data scraped from ESPN for the T20 World Cup 2022. The dashboard provides deep insights into team performances, player statistics, and an optimal playing XI selection based on different roles.
