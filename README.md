@@ -18,7 +18,7 @@ Interactive Filtering: Drill down by teams, players, seasons, and more.
 
 📊 Data Collection & Processing
 Web Scraping: Match results, player performances, and player details were scraped from ESPN.
-Data Cleaning & Transformation: Used Python (Pandas, BeautifulSoup) to clean and structure the data.
+Data Cleaning & Transformation: Used Python Pandas to clean and structure the data.
 Visualization: Designed an interactive dashboard in Power BI with multiple insights.
 
 🛠 Tech Stack
